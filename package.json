@@ -1,0 +1,24 @@
+{
+  "name": "rrose",
+  "version": "0.2.0",
+  "description": "Rrose: A Leaflet Plugin for Edge Cases",
+  "main": "dist/leaflet.rrose-src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxslip/rrose.git"
+  },
+  "keywords": [
+    "Leaflet",
+    "Popup",
+    "Orientation"
+  ],
+  "author": "Eric Theise <erictheise@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erictheise/rrose/issues"
+  },
+  "homepage": "https://github.com/erictheise/rrose#readme"
+}
