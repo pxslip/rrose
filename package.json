@@ -1,8 +1,8 @@
 {
   "name": "rrose",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Rrose: A Leaflet Plugin for Edge Cases",
-  "main": "dist/leaflet.rrose-src.js",
+  "main": "leaflet.rrose-src.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
