@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/erictheise/rrose/issues"
   },
-  "homepage": "https://github.com/erictheise/rrose#readme"
+  "homepage": "https://github.com/erictheise/rrose#readme",
+  "dependencies": {
+    "leaflet": ">0.7.2"
+  }
 }
